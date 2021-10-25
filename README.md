@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TopTalent7
+- 👀 I’m interested in IT.
+- 🌱 I’m currently learning Blockchain technology.
+- 💞️ I’m looking to collaborate on C/C++ Development.
+- 📫 
